@@ -136,8 +136,8 @@ var emails = [
   {
     subject: "Locked out of Zoom account",
     sender: "Linda Pott <msmusic1963@me.com>",
-    content: "Emily, I am teaching in three seconds and I have repeatedly put in the password to my computer's user account into Zoom (which I am accessing on my ipad from 2014) and locked myself out of the account. If you don't respond in the five minnutes before class is scheduled to begin I will simply perish and you will be entirely at fault. thank you",
-    timestamp: "11/01/2023 06:58",
+    content: "Emily, I am teaching in three seconds and I have repeatedly put the password for my computer into Zoom (which I am actually accessing on my ipad from 2014) and locked myself out of the account. If you don't respond in the next two minutes before class is scheduled to begin I will simply perish and you will be entirely at fault. thank you",
+    timestamp: "11/01/2023 04:58",
     read: false,
     spamFlag: false
   }
